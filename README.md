@@ -14,3 +14,6 @@ Image Recolorizationn using CNNs, autoencoders, and Deep Learning
    number = 4,
  }
 
+
+NOTE: These recolorization process doesn't fully work but it manages to ceate very close results
+NOTE: The transfer learning portion does not work
