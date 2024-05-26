@@ -17,3 +17,4 @@ Image Recolorizationn using CNNs, autoencoders, and Deep Learning
 
 NOTE: These recolorization process doesn't fully work but it manages to ceate very close results (I suspect it has to do with the rescaling of images used to find error)
 NOTE: The transfer learning portion does not work
+NOTE: Worked with two other students at Columbia University
